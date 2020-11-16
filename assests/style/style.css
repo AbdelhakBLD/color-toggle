@@ -1,0 +1,7 @@
+#colorP {
+    background-color: rgb(255,242,0);
+}
+
+#colorP.toggled {
+    background-color: rgb(244,113,33);
+}
